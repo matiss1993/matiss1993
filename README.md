@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matiss1993
-- 👀 I’m interested in data analyitics and fMachine Learning
+- 👀 I’m interested in data analyitics and Machine Learning
 - 🌱 I’m currently developoing my skills in SQL, Power BI, Python
 
 
